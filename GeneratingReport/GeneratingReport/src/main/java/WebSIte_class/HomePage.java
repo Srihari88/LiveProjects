@@ -20,7 +20,7 @@ public class HomePage {
 	@FindBy(xpath = ".//*[@id='site-head']/ul[2]/li/a1")
 	WebElement ClickLogin;
 
-	@FindBy(xpath = ".//*[@id='login-modal']/div[2]/div/pv-login/div/div/div[2]/div/form/div[1]/div[1]/div/div[2]/input")
+	@FindBy(xpath = ".//*[@id='login-modal']/div[2]/div/pv-login/div/div/div[2]/div/form/div[1]/div[1]/div/div[2]/input/1")
 	WebElement Username;
 
 	@FindBy(xpath = ".//*[@id='password']")
