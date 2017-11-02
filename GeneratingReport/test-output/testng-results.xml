@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61671" started-at="2017-11-01T17:11:53Z" finished-at="2017-11-01T17:12:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61671" started-at="2017-11-01T17:11:53Z" finished-at="2017-11-01T17:12:55Z">
+      <class name="Website_testcase.TC001_vefifyLoginPageWithInvalidCredentials">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Website_testcase.TC001_vefifyLoginPageWithInvalidCredentials@5dfcfece]" name="setup" is-config="true" duration-ms="49936" started-at="2017-11-01T22:41:53Z" finished-at="2017-11-01T22:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="vefifyLoginPageWithInvalidCredentials()[pri:0, instance:Website_testcase.TC001_vefifyLoginPageWithInvalidCredentials@5dfcfece]" name="vefifyLoginPageWithInvalidCredentials" duration-ms="11700" started-at="2017-11-01T22:42:43Z" finished-at="2017-11-01T22:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vefifyLoginPageWithInvalidCredentials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:Website_testcase.TC001_vefifyLoginPageWithInvalidCredentials@5dfcfece]" name="endTest" is-config="true" duration-ms="1" started-at="2017-11-01T22:42:55Z" finished-at="2017-11-01T22:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- Website_testcase.TC001_vefifyLoginPageWithInvalidCredentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
